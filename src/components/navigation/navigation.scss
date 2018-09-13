@@ -1,0 +1,11 @@
+app-categories-sidebar {
+  ul {
+    width: 300px;
+  }
+  .category-sidebar-active {
+    li {
+      background: #039be5;
+      color: white;
+    }
+  }
+}
