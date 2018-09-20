@@ -35,7 +35,7 @@ export class ProductCard {
         </div>
         <div>
           <div>
-            <span><strong>{this.price} a month</strong></span>
+            <span><strong>£{this.price} a month</strong></span>
           </div>
           <p>for {this.contractLength} months, includes line rental</p>
         </div>
